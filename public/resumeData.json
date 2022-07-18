@@ -1,107 +1,148 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Stephen Chang",
+    "occupation": "software engineer @ Amazon",
+    "description": ", working as part of the Operations Technology org",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "Hi, my name is Stephen Chang! Originally from Houston, I'm currently residing in Seattle, where I work as a software engineer at Amazon within the Operations Technology organization. Outside of working, I'm actively thinking of my future startups, new cooking recipes, and any acting opportunities! 😊",
+    "contactmessage": "For any inquiries, reach out to me at stephen8chang@gmail.com!!",
+    "email": "stephen8chang@gmail.com",
+    "phone": "832-795-7279",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "736 Bellevue Pl E",
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98102"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1FRTd2dYC5kJ2uFxtpRv18f-6OgQFU67z/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/profile.php?id=100010115528655",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/stephen8chang/",
         "className": "fa fa-instagram"
       },
       {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stephen8chang/",
+        "className": "fa fa-linkedin"
+      },
+      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/stephen8chang",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Just some of the many skills under my belt!",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Texas at Austin",
+        "degree": "Bachelor's in Electrical and Computer Engineering, Minor in Business",
+        "graduated": "May 2022",
+        "description": "Student Engineering Council (Academic Affairs, Service, Marketing + Analytics Committee and Ultimate Frisbee Team Captain), E-Week App Team (Project Manager), Foot in the Door Theatre (Jim O'Connor in The Glass Menagerie), Texas Convergent (Technical Project Lead), Asian Business Students Association (Executive Branch Director), Student Engineers Educating Kids (Student Mentor)"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Amazon",
+        "title": "Incoming Software Development Engineer",
+        "years": "August 2022 - Present",
+        "description": "Working within the Operations Technology org"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Orbee",
+        "title": "Associate Software Engineer",
+        "years": "January 2022 - May 2022",
+        "description": "• Executed major overhauls in company databases by creating a table importer microservice to synchronize table imports from AWS S3 to local databases, reducing internal user time spent querying for data entries by 50% • Created new endpoints to copy and archive email templates in user profiles using Ruby on Rails • Implemented click tracker injector component using SendGrid APIs, Nokogiri, and Regex to be used in 100% of future Outlook emails sent through the email marketing department • Wrote over 80 PostgreSQL queries to hotfix multiple user microservice errors related to email campaigns • Configured multi-database support for email marketing service using Terraform"
+      },
+      {
+        "company": "Goldman Sachs",
+        "title": "Summer Tech Analyst (SWE)",
+        "years": "June 2021 - August 2021",
+        "description": "• Streamlined creation of fraud concerns page for Marcus (an online-only bank) using React Redux, reducing agent communication between Goldman Sachs fraud microservices by 150% • Coordinated and engineered agent-client interactions component, reducing overall operations costs by 30% • Developed REST APIs in Java (Spring Boot) with server-side pagination to connect fraud concerns page and agent-client interactions component to customer profile microservices • Led communication with QA in Scrum environment to write 60 user acceptance tests for said APIs using Serenity BDD"
+      },
+      {
+        "company": "The Zebra",
+        "title": "Software Engineer Intern",
+        "years": "May 2020 - August 2020",
+        "description": "• Reduced unnecessary reporting by 50% from error-detection software (Sentry)through redesigned approach to catching exceptions in Tornado (Python framework), made possible through daily Agile refinements • Spearheaded Angular tooling improvementsfor search optimization, user graph display, and file accessibility for DBT Docs, a data documentation tool used by over 100 internal engineers • Created open-source contributions to the official DBT Docs code repository on GitHub to be a part of DBT Docs v0.18.0 • Consolidated the user documentation process by creating an OpenAPI documentation page for a data pipeline project"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
+        "name": "Java (including Springboot)",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "JavaScript (including Angular, React)",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Python (including Tornado)",
+        "level": "80%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
+      },
+      {
+        "name": "CI/CD Pipelines",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "50%"
+      },
+      {
+        "name": "Node.js (Express)",
+        "level": "50%"
+      },
+      {
+        "name": "Go (including Fiber)",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "40%"
+      },
+      {
+        "name": "Jest",
+        "level": "40%"
+      },
+      {
+        "name": "Serenity BDD",
+        "level": "40%"
+      },
+      {
+        "name": "AWS (including Sandbox, EC2)",
+        "level": "40%"
+      },
+      {
+        "name": "Docker",
+        "level": "40%"
+      },
+      {
+        "name": "Google Cloud",
+        "level": "40%"
       }
     ]
   },
