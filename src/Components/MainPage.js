@@ -10,7 +10,6 @@ import Portfolio from './Portfolio';
 class MainPage extends Component {
 
     render() {
-        console.log(this.props)
         return (
             <div>
                 <Header data={this.props.data.resumeData.main}/>

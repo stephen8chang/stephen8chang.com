@@ -149,34 +149,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Project Ryde",
+        "category": "A robust hardware checkout system built using React and Express",
+        "image": "projectrydelogo.JPG",
+        "url": "https://github.com/stephen8chang/project-ryde"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Foodability",
+        "category": "Award-winning restaurant rating app for physically disabled individuals",
+        "image": "foodabilitylogo.jpg",
+        "url": "https://devpost.com/software/foodability"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Yash (Yet Another Shell)",
+        "category": "Recreation of a of Linux Shell using a standard C library",
+        "image": "yashlogo.jpg",
+        "url": "https://github.com/stephen8chang/OperatingSystems-LinuxShell"
       }
     ]
   },
