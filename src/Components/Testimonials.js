@@ -23,31 +23,31 @@ class Testimonials extends Component {
             <Carousel thumbWidth={0} width={'100%'}>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/s7zvCCE.jpg" />
-                    <p className="legend1">Legend 1</p>
+                    <p className="legend1" style={{ color: 'white' }}>Cooked 10 of these omelette plates for 10 of my friends; safe to say I got 10/10 positive reviews!</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/PolZoW5.jpg" />
-                    <p className="legend2">Legend 2</p>
+                    <p className="legend2" style={{ color: 'white' }}>Me as Jim O'Connor in The Glass Menagerie in Spring 2022!</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/Lub4L6j.jpg" />
-                    <p className="legend3">Legend 3</p>
+                    <p className="legend3" style={{ color: 'white' }}>Homemade Doenjang Jjigae (Korean Soybean Paste Soup)</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/b7jvKyv.jpg" />
-                    <p className="legend3">Legend 4</p>
+                    <p className="legend4" style={{ color: 'white' }}>Official publicity for The Glass Menagerie</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/NRWatXU.jpg" />
-                    <p className="legend3">Legend 5</p>
+                    <p className="legend5" style={{ color: 'white' }}>Homemade Jjimdak (Korean Braised Chicken) with Tteokboki</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/6BlSX7R.jpg" />
-                    <p className="legend3">Legend 6</p>
+                    <p className="legend6" style={{ color: 'white' }}>Polaroid of the cast on the set of the Glass Menagerie :D</p>
                 </div>
                 <div style={{width:300,marginLeft:"auto",marginRight:"auto"}}>
                     <img src="https://i.imgur.com/zu7WLWz.jpg" />
-                    <p className="legend3">Legend 7</p>
+                    <p className="legend7" style={{ color: 'white' }}>Homemade Shakshuka (Maghrebi egg dish)</p>
                 </div>
             </Carousel>
          </div>
