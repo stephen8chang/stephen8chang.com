@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
+import SpotifyPlayer from 'react-spotify-player';
 
 
 class Testimonials extends Component {
@@ -18,6 +19,7 @@ class Testimonials extends Component {
     }
 
     return (
+      <>
       <section id="testimonials" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
          <div className="text-container" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
             <Carousel thumbWidth={0} width={'100%'}>
@@ -52,6 +54,21 @@ class Testimonials extends Component {
             </Carousel>
          </div>
       </section>
+      <section id="testimonials2" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <div className="text-container" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+          <SpotifyPlayer
+                uri="spotify:playlist:7AXGBbXvQwhZd9qx1YYZDg?si=32e3623f5354487a"
+                size="large"
+                them="black"
+                view="list"
+              />
+        </div>
+      </section>
+      <section id="testimonials2" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <div className="text-container" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        </div>
+      </section>
+      </>
     );
   }
 }
