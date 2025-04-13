@@ -57,7 +57,7 @@ class Testimonials extends Component {
       <section id="testimonials2" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
         <div className="text-container" style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
           <SpotifyPlayer
-                uri="spotify:playlist:7AXGBbXvQwhZd9qx1YYZDg?si=32e3623f5354487a"
+                uri="spotify:playlist:6BysmgbS0HWaquvqFX3iiM?si=Yb5KlZ7jRnquoFxsNGFHeQ"
                 size="large"
                 them="black"
                 view="list"

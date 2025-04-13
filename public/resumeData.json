@@ -2,20 +2,20 @@
   "main": {
     "name": "Stephen Chang",
     "occupation": "software engineer @ Amazon",
-    "description": ", working as part of the Operations Technology org",
+    "description": ", working as part of the Fulfilmment Technology org",
     "image": "profilepic.jpg",
-    "bio": "Hi, my name is Stephen Chang! Originally from Houston, I'm currently residing in Seattle, where I work as a software engineer at Amazon within the Operations Technology organization. Outside of working, I'm actively thinking of my future startups, new cooking recipes, and any acting opportunities! 😊",
+    "bio": "Hi, my name is Stephen Chang! Originally from Houston, I'm currently residing in Seattle, where I work as a software engineer at Amazon within the Fulfilmment Technology org. Outside of working, I'm actively thinking of my future startups, new cooking recipes, and any acting opportunities! 😊",
     "contactmessage": "For any inquiries, reach out to me at stephen8chang@gmail.com!!",
     "email": "stephen8chang@gmail.com",
     "phone": "832-795-7279",
     "address": {
-      "street": "736 Bellevue Pl E",
+      "street": "520 Terry Ave",
       "city": "Seattle",
       "state": "Washington",
-      "zip": "98102"
+      "zip": "98104"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1FRTd2dYC5kJ2uFxtpRv18f-6OgQFU67z/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/16h9RvtNGKSOSLujPnI2oe_MybtdfWr7q/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -52,27 +52,27 @@
     "work": [
       {
         "company": "Amazon",
-        "title": "Incoming Software Development Engineer",
+        "title": "Software Development Engineer",
         "years": "August 2022 - Present",
-        "description": "Working within the Operations Technology org"
+        "description": "• Designed and implemented cache updater workflow to convert a system handling 10 million+ API requests per day from API-driven to completely cache dependent which reduced team operational costs by $15k (100%) monthly\n • Led experimentation with SageMaker Batch Transform input configurations and constructed highly available hourly jobs that process critical image data and drive 3 integral team services, creating a critical input dependency for two sister teams \n• Increased coverage of metric-reporting functionalities to 100% on Amazon warehouse devices that ensure quality management, simplifying mandatory device health maintenance and inspection in warehouses worldwide\n • Formulated a scalable Lambda handler to process 100% of Amazon warehouse device requests (up from 75%), increasing throughput by 33% by consolidating inputs from 5 microservice endpoints per invocation \n• Initiated monthly design meetings which delivered 30% improvement in code infrastructure quality and 25% faster resolution of Amazon warehouse device issues \n• Deployed alarm suites and integration tests across 10+ team services to catch 60% more failure cases in production, increasing pipeline availability by 40% and reducing deployment time by 65%"
       },
       {
         "company": "Orbee",
         "title": "Associate Software Engineer",
         "years": "January 2022 - May 2022",
-        "description": "• Executed major overhauls in company databases by creating a table importer microservice to synchronize table imports from AWS S3 to local databases, reducing internal user time spent querying for data entries by 50% • Created new endpoints to copy and archive email templates in user profiles using Ruby on Rails • Implemented click tracker injector component using SendGrid APIs, Nokogiri, and Regex to be used in 100% of future Outlook emails sent through the email marketing department • Wrote over 80 PostgreSQL queries to hotfix multiple user microservice errors related to email campaigns • Configured multi-database support for email marketing service using Terraform"
+        "description": "• Executed major overhauls in company databases by creating a table importer microservice to synchronize table imports from AWS S3 to local databases, reducing internal user time spent querying for data entries by 50%\n • Created new endpoints to copy and archive email templates in user profiles using Ruby on Rails \n• Implemented click tracker injector component using SendGrid APIs, Nokogiri, and Regex to be used in 100% of future Outlook emails sent through the email marketing department\n • Wrote over 80 PostgreSQL queries to hotfix multiple user microservice errors related to email campaigns\n • Configured multi-database support for email marketing service using Terraform"
       },
       {
         "company": "Goldman Sachs",
         "title": "Summer Tech Analyst (SWE)",
         "years": "June 2021 - August 2021",
-        "description": "• Streamlined creation of fraud concerns page for Marcus (an online-only bank) using React Redux, reducing agent communication between Goldman Sachs fraud microservices by 150% • Coordinated and engineered agent-client interactions component, reducing overall operations costs by 30% • Developed REST APIs in Java (Spring Boot) with server-side pagination to connect fraud concerns page and agent-client interactions component to customer profile microservices • Led communication with QA in Scrum environment to write 60 user acceptance tests for said APIs using Serenity BDD"
+        "description": "• Streamlined creation of fraud concerns page for Marcus (an online-only bank) using React Redux, reducing agent communication between Goldman Sachs fraud microservices by 150%\n • Coordinated and engineered agent-client interactions component, reducing overall operations costs by 30%\n • Developed REST APIs in Java (Spring Boot) with server-side pagination to connect fraud concerns page and agent-client interactions component to customer profile microservices \n• Led communication with QA in Scrum environment to write 60 user acceptance tests for said APIs using Serenity BDD"
       },
       {
         "company": "The Zebra",
         "title": "Software Engineer Intern",
         "years": "May 2020 - August 2020",
-        "description": "• Reduced unnecessary reporting by 50% from error-detection software (Sentry)through redesigned approach to catching exceptions in Tornado (Python framework), made possible through daily Agile refinements • Spearheaded Angular tooling improvementsfor search optimization, user graph display, and file accessibility for DBT Docs, a data documentation tool used by over 100 internal engineers • Created open-source contributions to the official DBT Docs code repository on GitHub to be a part of DBT Docs v0.18.0 • Consolidated the user documentation process by creating an OpenAPI documentation page for a data pipeline project"
+        "description": "• Reduced unnecessary reporting by 50% from error-detection software (Sentry)through redesigned approach to catching exceptions in Tornado (Python framework), made possible through daily Agile refinements\n • Spearheaded Angular tooling improvementsfor search optimization, user graph display, and file accessibility for DBT Docs, a data documentation tool used by over 100 internal engineers\n • Created open-source contributions to the official DBT Docs code repository on GitHub to be a part of DBT Docs v0.18.0 \n• Consolidated the user documentation process by creating an OpenAPI documentation page for a data pipeline project"
       }
     ],
     "skills": [
